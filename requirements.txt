@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+pypdf2
+pandas
+groq
+langchain
+chromadb
+gspread
+oauth2client
